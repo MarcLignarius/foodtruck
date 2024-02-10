@@ -36,6 +36,8 @@ Mock website for a food truck.
 - `cd foodtruck` Open up the cloned repository.
 - `open index.html` to open the application in your browser.
 
+Alternatively, click [here](https://marclignarius.github.io/foodtruck/) to view the site as a Github page.
+
 ## Known Bugs
 
 There are no known bugs as of this release.
